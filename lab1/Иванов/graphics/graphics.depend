@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1632518267 source:c:\users\1\desktop\Физтех\c++\3sem_lab1\graphics\main.cpp
+	<iostream>
+	<set>
+	<random>
+	<string>
+	<fstream>
+	<sstream>
+	<cstdlib>
+
